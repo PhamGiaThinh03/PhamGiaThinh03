@@ -8,7 +8,6 @@
 - 💼 Interested in **applied AI solutions**
 - 📫 Reach me at **giathinhpham.pgt@gmail.com**
 
----
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, SQL
